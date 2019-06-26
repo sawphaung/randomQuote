@@ -57,6 +57,12 @@ h1 {
   border-radius: 1rem;
 }
 
+.button:hover {
+  border: 0.2rem solid red;
+  background-color: red;
+  color: #fff;
+}
+
 footer {
   position: absolute;
   right: 0;
